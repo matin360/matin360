@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matin360
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning .NET Core, EF Core, F#, Elixir.
+- 🌱 I’m currently learning React, Docker.
 - 📫 How to reach me: matin.manafovvvv@gmail.com
 
 <!---
