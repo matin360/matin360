@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matin360
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning React, Docker.
+- 🌱 I’m currently learning React, VueJS.
 - 📫 How to reach me: matin.manafovvvv@gmail.com
 
 <!---
